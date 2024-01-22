@@ -88,6 +88,7 @@ boolean replaceAll(List list，Object oldVal，Object newVal)：使用新值替�
 
         System.out.println(list);
         System.out.println(frequency);
+        System.out.println("hexingui");
 
     }
 
